@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there 👋 This is Gayathri from [GVP](http://www.gvpce.ac.in/) college of engineering.
 
-<!--
-**bvsslgayathri-8679/bvsslgayathri-8679** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interested to learn every domain .
+> _Wanna explore new things._
 
-Here are some ideas to get you started:
+#### Interesting stuff❕
+* 🌱**Started learning flutter.
+* 🔭 Worked on django
+* :page_with_curl: Learning self learning..
+* 🤔 Wanna learn AI and explore cloud**
+* 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Can talk about💻
+* **C,C++,Python,web development,Competetive programming..**
+* **Data structures and algorithms,Mathematics**
+* **Interesting Novels**
+
+
+####  💬You can reach me on :wink:
+* [Linkedin](https://www.linkedin.com/in/bvssl-gayathri-9091591b0/)- Lets talk.
+* [Medium](https://medium.com/@bvsslgayathri) My blogs.
+
+#### Pronouns😜
+ **sis, she, her, dude..**
+
+
+
