@@ -1,14 +1,14 @@
+:smile: Gayathri@readme
 ### Hi there 👋 This is Gayathri from [GVP](http://www.gvpce.ac.in/) college of engineering.
 
 Interested to learn every domain .
-> _Wanna explore new things._
+Wanna explore new things.
 
 #### Interesting stuff❕
 * 🌱**Started learning flutter.
 * 🔭 Worked on django
 * :page_with_curl: Learning self learning..
 * 🤔 Wanna learn AI and explore cloud**
-* 
 
 
 #### Can talk about💻
